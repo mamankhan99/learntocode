@@ -1,3 +1,5 @@
 2 pants
 2 shirts
 1 jacket
+2 socks
+2 biskits
