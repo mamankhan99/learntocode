@@ -1,0 +1,1 @@
+print("muaaz"  *1000)
