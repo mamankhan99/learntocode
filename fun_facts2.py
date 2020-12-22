@@ -1,0 +1,1 @@
+print("muaaz_kareem"*1000)
