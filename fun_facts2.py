@@ -11,7 +11,7 @@ print("9. The Paris Agreement on climate change was signed by the largest number
 print("10. The longest place name on the planet is 85 letters long.")
 print("11. There are only three countries in the world that don't use the metric system.")
 print("12. Four babies are born every second. ")
-print("13. The coldest temperature ever recorded was -144 degrees Fahrenheit.")
+print("13. The coldest temperature sever recorded was -144 degrees Fahrenheit.")
 print("14. The Earth's ozone layer will make a full recovery in 50 years.")
 print("15. Japan is the world's most earthquake-prone country.")
 print("16. There are around 4 quadrillion quadrillion bacteria on Earth. ")
