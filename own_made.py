@@ -1,0 +1,8 @@
+user_name = input("What is your name = ")
+user_father_name = input("What is your father's name = ")
+user_age = input("What is your age = ")
+user_phone_number = input("Enter your phone number = ")
+user_father_phone_number = input("Enter your father's phon number = ")
+user_needs_1 = input("Which device you want = ")
+user_wants_function = input("Enter that function you wants in this device = ")
+user_need_no_2 = input("Why you need this device = ")
